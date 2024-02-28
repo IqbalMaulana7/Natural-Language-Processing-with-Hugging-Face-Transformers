@@ -1,30 +1,43 @@
-# 🎨 The Art of Prompt Engineering 🛠️
+# 🎨 Introduction to Natural Language Processing with Hugging Face Transformers 🛠️
 ### **Author : Cognitive Class AI**
 
 ## Overview 🌟
-This project delves into the concept of prompt engineering, a crucial aspect of AI that guides AI models to produce desired outputs. It's instrumental in AI tools like chatbots, text summarizers, and content generators, ensuring they communicate accurately, relevantly, and creatively. The project underscores the benefits of prompt engineering in business, from enhancing chatbot performance to guiding personalization systems, enabling accurate sentiment analysis, and optimizing productivity. It emphasizes the importance of clear instructions, examples, keywords, and feedback when working with large language models (LLMs) like ChatGPT. The project also outlines various techniques, including writing clear instructions, giving the model time to "think", and strategies like Chain-of-Thought (CoT) Prompting and Generated Knowledge Prompting. We also introduce Langchain library that can provide strong tools for prompt engineering.
+This Guided Project will walk you through some of the applications of Hugging Face Transformers in Natural Language Processing (NLP).
+Hugging Face Transformers package is very popular and versatile Python library that provides pre-trained models for a variety of applications in NLP, as well other areas such as image analysis, audio analysis, multimodal analysis (optical character recognition, video classification, visual question answering and many more).
 
 ## Mentee Information 📚
 - **Name:** Iqbal Maulana Kholidi
 - **Program:** IBM Advanced AI
 
 ## Table of Contents 📑
-1. Introduction
-2. Importance of Prompt Engineering in AI Tools
-3. Benefits of Prompt Engineering in Business
-4. Prompt Engineering with LLM models like ChatGPT
-5. Prompt Engineering Techniques
-    - Principle 1: Write Clear and Specific Instructions
-    - Principle 2: Give the Model Time to "Think"
-    - Additional Strategies
-6. Python Project: Survival Analysis
-    - Understanding the Concept
-    - Learning the Basics
-    - Python Implementation
-    - Asking Further Questions
-7. Prompt Engineering with Langchain
+1. Objectives
+2. Setup
+    - Installing Required Libraries
+    - Importing Required Libraries
+3. Background (optional)
+    - Example 1 - Sentiment Analysis
+    - Example 2 - Topic Classification
+    - Example 3 - Text Generator: Masked Language Modeling
+    - Example 4 - Name Entity Recognition
+    - Example 5 - Question Answering
+    - Example 6 - Text Summarization
+    - Example 7 - Translation
+Exercises
+1.  Exercise 1. Sentiment Analysis
+2.  Exercise 2. Topic Classification
+3.  Exercise 3. Text Generation
+4.  Exercise 4. Name Entity Recognition
+5.  Exercise 5. Question Answering
+6.  Exercise 6. Text Summarization
+7.  Exercise 7. Translation
 
 ## Objectives 🎯
 After completing this lab you will be able to:
-1. Learn to communicate effectively with AI models like ChatGPT.
-2. Gain hands-on experience in prompt engineering in implementing survival analysis in Python.
+Use Hugging Face Transformers to do:
+  - Sentiment Analysis
+  - Topic Classification
+  - Text Generation
+  - Name Entity Recognition
+  - Question Answering
+  - Text Summarization
+  - Text Translation
